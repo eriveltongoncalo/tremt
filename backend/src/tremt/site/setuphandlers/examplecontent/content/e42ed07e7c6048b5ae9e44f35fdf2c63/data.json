@@ -1,0 +1,39 @@
+{
+  "@id": "/leao.jpg",
+  "@type": "Image",
+  "UID": "e42ed07e7c6048b5ae9e44f35fdf2c63",
+  "allow_discussion": null,
+  "contributors": [],
+  "created": "2025-10-02T13:29:35+00:00",
+  "creators": [
+    "admin"
+  ],
+  "description": "",
+  "effective": null,
+  "expires": null,
+  "exportimport.constrains": {},
+  "exportimport.conversation": [],
+  "id": "leao.jpg",
+  "image": {
+    "blob_path": "e42ed07e7c6048b5ae9e44f35fdf2c63/image/leao.jpg",
+    "content-type": "image/jpeg",
+    "filename": "leao.jpg",
+    "height": 200,
+    "size": 16487,
+    "width": 357
+  },
+  "is_folderish": false,
+  "language": "##DEFAULT##",
+  "layout": "image_view",
+  "lock": {},
+  "modified": "2025-10-02T13:29:35+00:00",
+  "review_state": null,
+  "rights": "",
+  "subjects": [],
+  "title": "leao.jpg",
+  "type_title": "Image",
+  "version": "current",
+  "workflow_history": {},
+  "working_copy": null,
+  "working_copy_of": null
+}
