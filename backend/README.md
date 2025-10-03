@@ -14,7 +14,7 @@ Install tremt.site with uv.
 uv add tremt.site
 ```
 
-Create the Plone site.
+Create the Plone site!
 
 ```shell
 make create-site
